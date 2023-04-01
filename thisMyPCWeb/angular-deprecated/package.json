@@ -24,7 +24,7 @@
     "core-js": "^2.6.9",
     "express-fileupload": "^1.1.10",
     "intro.js": "^2.9.3",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ng-connection-service": "^1.0.4",
     "rxjs": "~6.3.3",
     "socket.io-client": "^2.2.0",
